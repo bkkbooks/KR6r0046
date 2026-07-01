@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0046/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大唐故大德贈司空大辨正廣智不空三藏行狀
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2056.xml
+    old_id: T50n2056
+hash: sha256:cfed25a860e0bcb3fc94b9e903e083a4e2322ca3c593a900e3a9782e29532967

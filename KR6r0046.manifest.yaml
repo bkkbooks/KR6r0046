@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6r0046/v1
+canonical_location: https://kanripo.org/bkk/KR6r0046/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大唐故大德贈司空大辨正廣智不空三藏行狀
+  identifiers:
+    alt_id:
+    - T50n2056
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2056.xml
+    old_id: T50n2056
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 原
+  label: 原
+  source_xml_id: wit2
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0046_000.yaml, hash: 'sha256:cfed25a860e0bcb3fc94b9e903e083a4e2322ca3c593a900e3a9782e29532967'}
+  - {seq: 1, filename: KR6r0046_001.yaml, hash: 'sha256:ab1bc6289adcf677ea7ce770c6902c9604435b3322e8a62106250ae1f656065d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6r0046_001.markers.yaml, hash: 'sha256:b2a798ac010f959a168cf4786236d390307f4a3e70fbb832242f34fd0ca25551'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0046_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3526
+  label: '大唐故大德贈司空大辨正廣
+
+    智不空三藏行狀'
+  type: juan
+  level: 1
+hash: sha256:5292bac3b8a81d23b6c556983726587156e348fd36aef29bbcbf2ef10618fc6a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
