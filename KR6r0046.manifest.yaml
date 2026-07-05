@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0046_000.yaml, hash: 'sha256:cfed25a860e0bcb3fc94b9e903e083a4e2322ca3c593a900e3a9782e29532967'}
-  - {seq: 1, filename: KR6r0046_001.yaml, hash: 'sha256:ab1bc6289adcf677ea7ce770c6902c9604435b3322e8a62106250ae1f656065d'}
+  - {seq: 1, filename: KR6r0046_001.yaml, hash: 'sha256:a8fab3aaa3d2a82fabbd33c0dd6a913f83e66da87f939e75d255c154da556630'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6r0046_001.markers.yaml, hash: 'sha256:b2a798ac010f959a168cf4786236d390307f4a3e70fbb832242f34fd0ca25551'}
+  - {seq: 0, role: markers, filename: assets/KR6r0046_000.markers.yaml, hash: 'sha256:7fa9d6c76649d2dff795b309d861f23ac9256bf19d8e9287fe54bbbeeb58f373'}
+  - {seq: 1, role: markers, filename: assets/KR6r0046_001.markers.yaml, hash: 'sha256:a257595288e27fc63d33af5f02eb445f50a1a0ba4079da07157cb5edb6154d40'}
 table_of_contents:
 - ref:
     seq: 1
@@ -44,7 +45,4 @@ table_of_contents:
     智不空三藏行狀'
   type: juan
   level: 1
-hash: sha256:5292bac3b8a81d23b6c556983726587156e348fd36aef29bbcbf2ef10618fc6a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4847984b8dee23c5adfb2111b8e508319353c70b06616f0080ff8bdc2d94bd78
